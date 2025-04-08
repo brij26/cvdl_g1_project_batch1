@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+env/
+g2project/
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Data and models
+data/
+*.h5
+*.pt
+*.ckpt
+output_dataset/
+VOC2012/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

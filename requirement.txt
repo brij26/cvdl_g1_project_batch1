@@ -1,0 +1,25 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+tqdm
+ipykernel
+
+# Image Processing
+opencv-python
+Pillow
+
+# PyTorch (for both YOLOv5 and Faster R-CNN)
+torch
+torchvision
+torchaudio
+
+# COCO Dataset Handling
+pycocotools
+
+# YOLOv5 Dependencies
+ultralytics  # YOLOv5 official package
+
+# Faster R-CNN Dependencies
+scikit-learn
+albumentations
